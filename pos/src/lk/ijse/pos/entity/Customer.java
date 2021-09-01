@@ -1,15 +1,4 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-package lk.ijse.pos.model;
-
-
-/**
- * @author : Sanu Vithanage
- * @since : 0.1.0
- **/
+package lk.ijse.pos.entity;
 
 public class Customer {
     private String  cID;
